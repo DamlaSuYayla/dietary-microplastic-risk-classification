@@ -48,7 +48,9 @@ Using SHAP analysis, we visualized the global feature importance:
 * **Primary Drivers:**  Dietary baseline contamination concentration (`total_ug_per_kg`) emerged as the single most influential feature across models.
 * **Dietary Drivers:** Higher consumption of dairy products (`total_milk`) and engineered aggregate variables (`total_intake`) were the dominant predictors shifting predictions toward High-Risk classifications.
 
-*(Tip: Place your SHAP summary plot or correlation heatmap images here using `![SHAP Plot](reports/figures/shap_importance.png)`)*
+<img width="1100" height="1000" alt="Ekran görüntüsü 2026-05-13 221443" src="https://github.com/user-attachments/assets/f4c2d306-0625-4230-842c-4f85d993f2b9" />
+<img width="900" height="600" alt="Ekran görüntüsü 2026-05-13 221510" src="https://github.com/user-attachments/assets/d56dfab0-ca6a-424c-8c8c-e86e15c466ef" />
+
 
 ---
 
