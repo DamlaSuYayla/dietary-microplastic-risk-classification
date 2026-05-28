@@ -60,7 +60,5 @@ Using SHAP analysis, we visualized the global feature importance:
 ---
 
 ## 🚀 How to Run
-
-1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/dietary-microplastic-risk.git](https://github.com/yourusername/dietary-microplastic-risk.git)
+   git clone [https://colab.research.google.com/drive/1Txz5hrVtjI8PxL8U6cnC8wcPZKVv9dr?usp=sharing )
