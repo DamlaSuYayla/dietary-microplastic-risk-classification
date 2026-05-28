@@ -1,6 +1,4 @@
-# Dietary Microplastic Exposure Risk Classification Across 109 
-Countries Using Ensemble Machine Learning and SHAP-Based 
-Explainable AI 
+# Dietary Microplastic Exposure Risk Classification Across 109 Countries Using Ensemble Machine Learning and SHAP-Based Explainable AI 
 
 An end-to-end machine learning and Explainable AI (XAI) pipeline designed to classify human dietary microplastic exposure risks globally using longitudinal data (1990-2018).
 
