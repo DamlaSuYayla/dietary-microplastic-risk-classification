@@ -31,7 +31,7 @@ The workflow consists of the following phases:
 ### Performance Benchmarking
 Our ensemble models significantly outperformed the traditional statistical baseline:
 
-| Model | Accuracy | Precision | Recall | Macro F1-Score | ROC-AUC |
+| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Multinomial Logistic Regression** | 0.8690 | 0.8843 | 0.8690 | 0.8713 | 0.9695 |
 | **Random Forest (Best)** | **0.9862** | **0.9863** | **0.9862** | **0.9862** | **0.9996** |
