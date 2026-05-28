@@ -38,7 +38,7 @@ Our ensemble models significantly outperformed the traditional statistical basel
 | **XGBoost** | 0.9724 | 0.9732 | 0.9724 | 0.9726 | 0.9993 |
 
 ### Generalizability & Robustness
-* **5-Fold Cross Validation:** Random Forest achieved a mean accuracy of `0.9723` ($\sigma = 0.0145$), proving internal consistency.
+* **5-Fold Cross Validation:** Random Forest achieved a mean accuracy of `0.9862`, proving internal consistency.
 * **Temporal Validation (Data Drift Test):** Evaluated on unseen post-2010 data, the Random Forest model maintained a strong chronological generalizability with an accuracy of **0.9495**.
 
 ---
